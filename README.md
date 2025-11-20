@@ -53,6 +53,8 @@ But then things shifted.
 
 
 2️ The Rise of the United States
+<img width="707" height="570" alt="Screenshot 2025-11-20 at 12 15 44" src="https://github.com/user-attachments/assets/8ddeb543-e476-4c18-a5c7-2a36e9f31ad9" />
+
 
 By tagging U.S.-born winners and plotting them by decade, the story became clear:
 
@@ -63,6 +65,8 @@ This lines up with major scientific investment in the U.S. around that time, esp
 
 
 3️ Gender Imbalance Is… Severe
+<img width="980" height="647" alt="Screenshot 2025-11-20 at 12 16 50" src="https://github.com/user-attachments/assets/3d987d98-53be-4816-98b5-b2ce0d084cf5" />
+
 
 No surprises here, but seeing the numbers laid out decade by decade makes it even more striking.
 
@@ -76,6 +80,7 @@ Physics and Economics? Still overwhelmingly male.
 
 
 4️ The First Woman: Marie Curie
+
 
 It was nice to confirm that the very first female Nobel Prize winner was indeed Marie Curie in 1903 (Physics), and she later won another one in Chemistry.
 
@@ -100,6 +105,16 @@ Most people never win one — winning two puts you in superhero territory.
 
 
 6️ Age Patterns Are Changing
+<img width="1343" height="610" alt="Screenshot 2025-11-20 at 12 17 42" src="https://github.com/user-attachments/assets/7516b26a-5761-4af9-810c-6b5fd7e9c5d6" />
+<img width="679" height="371" alt="Screenshot 2025-11-20 at 12 19 47" src="https://github.com/user-attachments/assets/9493dec6-4915-4d11-8ced-70f92974ced3" />
+<img width="681" height="339" alt="Screenshot 2025-11-20 at 12 21 04" src="https://github.com/user-attachments/assets/63213407-91b5-43aa-b3cc-7a21f0969301" />
+<img width="683" height="340" alt="Screenshot 2025-11-20 at 12 21 16" src="https://github.com/user-attachments/assets/6472b1d0-1b98-47a6-b295-68c5add3aeb5" />
+<img width="684" height="343" alt="Screenshot 2025-11-20 at 12 21 27" src="https://github.com/user-attachments/assets/7ea81c51-d721-42aa-8fd9-2868ef3d422f" />
+<img width="682" height="337" alt="Screenshot 2025-11-20 at 12 21 37" src="https://github.com/user-attachments/assets/44bb81c5-d072-4687-84a0-1a79a693107e" />
+<img width="681" height="340" alt="Screenshot 2025-11-20 at 12 21 48" src="https://github.com/user-attachments/assets/b25d405f-b17b-4664-bf1e-2ec104e3a9e3" />
+
+
+
 
 By calculating age at the time of award, I noticed:
 
