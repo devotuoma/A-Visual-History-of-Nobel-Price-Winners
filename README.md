@@ -1,5 +1,7 @@
 A Visual History of Nobel Prize Winners (1901–2016)
 
+<img width="1082" height="321" alt="Screenshot 2025-11-20 at 11 37 58" src="https://github.com/user-attachments/assets/3f151908-3145-4f56-b5df-acb0d71313ba" />
+
 
 I’ve always been fascinated by how big, prestigious awards like the Nobel Prize evolve over time — who gets recognized, which countries dominate, and how things like gender and age representation shift throughout history. So I decided to dig into the full dataset of Nobel Prize winners from 1901 to 2016 and see what stories the numbers would tell.
 
